@@ -37,4 +37,9 @@ end
 
 # Define your play method below
 def play(board)
+  #start a loop and call #turn
+  count = 0
+  until count >= 9
+    #dosth
+  end 
 end
