@@ -42,5 +42,6 @@ def play(board)
   until count >= 9
     #dosth
     turn(board)
+    count += 1
   end
 end
